@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BFranco-94
 - 👀 I’m interested in learn more about Java, Spring boot, React Js, laso in backend technologies
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on a begginer project about React technologie to learn more and get more experience
+- 🌱 I’m currently learning Spring boot and JUnit
+- 💞️ I’m looking to collaborate on a begginer project about Spirng boot technologie to learn more and get more experience
 - 📫 How to reach me, send me a mail to bryanfranco_94@hotmail.com 
 
 <!---
